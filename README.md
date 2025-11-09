@@ -6,7 +6,7 @@
 
 <h3 align="left">Minha Trajetória</h3>
 <p>
-  Minha dedicação aos estudos me levou a ser aprovada em faculdades federais aos 19 anos, e hoje canalizo essa energia para o universo da Ciência da Computação. Minha experiência na L'Oréal me proporciona uma visão prática do desenvolvimento de software e da aplicação de tecnologias em um contexto industrial, combinando a teoria acadêmica com desafios do mundo real. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar minhas habilidades, contribuindo para projetos significativos.
+  Minha dedicação aos estudos me levou a ser aprovada em faculdades federais aos 19 anos, e hoje estou cursando Ciência da Computação. Minha experiência na L'Oréal me proporciona uma visão prática das aplicações de tecnologias em um contexto industrial. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar minhas habilidades, contribuindo para projetos significativos.
 </p>
 
 - Calculadora de Crédito em Carbono [APS](https://github.com/yasmimsantos2/Trabalho-de-APS-.git)
