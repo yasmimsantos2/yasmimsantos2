@@ -1,5 +1,13 @@
 <h1 align="center">Seja bem-vindo ao perfil de: Yasmim S.</h1>
-<h3 align="center">Com 21 anos, sou uma entusiasta da tecnologia com uma paixão ardente por desvendar os segredos da computação e construir soluções inovadoras. Minha jornada começou cedo, com uma formação técnica em Sistemas de Informação que me deu uma base prática sólida. Atualmente, estou expandindo meus horizontes como graduanda em Ciência da Computação e, simultaneamente, aplicando meus conhecimentos como **Estagiária na L'Oréal, na planta de São Paulo**. Sou movida pela curiosidade, pela busca constante por conhecimento e pelo desejo de causar impacto. Acredito que o código tem o poder de transformar ideias em realidade e de otimizar processos, contribuindo significativamente para o ambiente corporativo e para a indústria. ### Minha Trajetória Minha dedicação aos estudos me levou a ser aprovada em faculdades federais aos 19 anos, e hoje canalizo essa energia para o universo da Ciência da Computação. Minha experiência na L'Oréal me proporciona uma visão prática do desenvolvimento de software e da aplicação de tecnologias em um contexto industrial, combinando a teoria acadêmica com desafios do mundo real. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar minhas habilidades, contribuindo para projetos significativos.</h3>
+
+<p>
+  Com 21 anos, sou uma entusiasta da tecnologia com uma paixão ardente por desvendar os segredos da computação e construir soluções inovadoras. Minha jornada começou cedo, com uma formação técnica em Sistemas de Informação que me deu uma base prática sólida. Atualmente, estou expandindo meus horizontes como graduanda em Ciência da Computação e, simultaneamente, aplicando meus conhecimentos como **Estagiária na L'Oréal, na planta de São Paulo**. Sou movida pela curiosidade, pela busca constante por conhecimento e pelo desejo de causar impacto. Acredito que o código tem o poder de transformar ideias em realidade e de otimizar processos, contribuindo significativamente para o ambiente corporativo e para a indústria.
+</p>
+
+<h3 align="left">Minha Trajetória</h3>
+<p>
+  Minha dedicação aos estudos me levou a ser aprovada em faculdades federais aos 19 anos, e hoje canalizo essa energia para o universo da Ciência da Computação. Minha experiência na L'Oréal me proporciona uma visão prática do desenvolvimento de software e da aplicação de tecnologias em um contexto industrial, combinando a teoria acadêmica com desafios do mundo real. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar minhas habilidades, contribuindo para projetos significativos.
+</p>
 
 - Calculadora de Crédito em Carbono [APS](https://github.com/yasmimsantos2/Trabalho-de-APS-.git)
 
