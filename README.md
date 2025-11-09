@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo ao perfil de: Yasmim S.</h1>
 
 <p>
-  Tenho 21 anos e sou apaixonadav por tecnologia e pretendo construir soluções inovadoras. Minha jornada começou cedo, com uma formação técnica em Sistemas de Informação que me deu uma base prática sólida. Atualmente, estou expandindo meus horizontes como graduanda em Ciência da Computação e, simultaneamente, aplicando meus conhecimentos como **Estagiária na L'Oréal, na planta de São Paulo**. Sou movida pela curiosidade, pela busca constante por conhecimento e pelo desejo de causar impacto. Acredito que o código tem o poder de transformar ideias em realidade e de otimizar processos, contribuindo significativamente para o ambiente corporativo e para a indústria.
+  Tenho 21 anos e sou apaixonada por tecnologia e pretendo construir soluções inovadoras. Minha jornada começou cedo, com uma formação técnica em Sistemas de Informação que me deu uma base prática sólida. Atualmente, estou expandindo meus horizontes como graduanda em Ciência da Computação e, simultaneamente, aplicando meus conhecimentos como **Estagiária na L'Oréal, na planta de São Paulo**. Sou movida pela curiosidade, pela busca constante por conhecimento e pelo desejo de causar impacto. Acredito que o código tem o poder de transformar ideias em realidade e de otimizar processos, contribuindo significativamente para o ambiente corporativo e para a indústria.
 </p>
 
 <h3 align="left">Minha Trajetória</h3>
