@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Seja bem-vindo ao perfil de: Yasmim S.</h1>
+<h3 align="center">Com 21 anos, sou uma entusiasta da tecnologia com uma paixão ardente por desvendar os segredos da computação e construir soluções inovadoras. Minha jornada começou cedo, com uma formação técnica em Sistemas de Informação que me deu uma base prática sólida. Atualmente, estou expandindo meus horizontes como graduanda em Ciência da Computação e, simultaneamente, aplicando meus conhecimentos como **Estagiária na L'Oréal, na planta de São Paulo**. Sou movida pela curiosidade, pela busca constante por conhecimento e pelo desejo de causar impacto. Acredito que o código tem o poder de transformar ideias em realidade e de otimizar processos, contribuindo significativamente para o ambiente corporativo e para a indústria. ### Minha Trajetória Minha dedicação aos estudos me levou a ser aprovada em faculdades federais aos 19 anos, e hoje canalizo essa energia para o universo da Ciência da Computação. Minha experiência na L'Oréal me proporciona uma visão prática do desenvolvimento de software e da aplicação de tecnologias em um contexto industrial, combinando a teoria acadêmica com desafios do mundo real. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar minhas habilidades, contribuindo para projetos significativos.</h3>
 
-<!--
-**yasmimsantos2/yasmimsantos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Calculadora de Crédito em Carbono [APS](https://github.com/yasmimsantos2/Trabalho-de-APS-.git)
 
-Here are some ideas to get you started:
+- 💬Pergunte algo sobre mim: **Durante meu estágio na planta da L'Oréal em São Paulo, o maior aprendizado inesperado, e que tem sido fundamental para complementar minha formação em Ciência da Computação.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como você me encontra **yasmim.santos2451@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> </p>
